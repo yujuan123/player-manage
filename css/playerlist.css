@@ -1,3 +1,6 @@
+body{
+
+}
 #wrapper{
   margin-top: 10%;
 }
@@ -5,5 +8,12 @@
 #data_table{
     width:80%;
     margin:auto;
+    font-size:18px;
+    font-family: DFKai-sb;/*楷体*/
+    color:rgb(9, 53, 89);
     text-align: center;
+}
+
+#data_table thead{
+    font-size: 28px;
 }
